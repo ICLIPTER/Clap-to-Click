@@ -1,0 +1,6 @@
+sounddevice
+numpy
+pyautogui
+scipy
+vosk
+tk
