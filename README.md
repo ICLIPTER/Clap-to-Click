@@ -1,6 +1,7 @@
 # Clap-to-Click
 
 
+
 A hands-free media control tool that lets you **click anywhere using just sound**—whether it's a clap or your voice. Ideal for watching anime or videos without touching the computer!
 
 ---
