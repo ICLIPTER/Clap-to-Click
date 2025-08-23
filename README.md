@@ -2,7 +2,6 @@
 
 
 
-
 # Clap-to-Click
 
 
