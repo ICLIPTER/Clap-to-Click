@@ -1,4 +1,3 @@
-
 # Clap-to-Click
 
 
